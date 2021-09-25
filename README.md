@@ -1,4 +1,4 @@
 - [X] [HTML-вёрстка: с нуля до первого макета](https://github.com/TomSG03/html-layout/tree/main)
 - [x] [Адаптивная и мобильная верстка](https://github.com/TomSG03/MQ30Diplom)
 - [x] [Основы программирования](https://github.com/TomSG03/programming-basics)
-- [x] [Основы Javascript](https://github.com/TomSG03/bjs-diplom
+- [x] [Основы Javascript](https://github.com/TomSG03/bjs-diplom)
