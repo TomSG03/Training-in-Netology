@@ -4,3 +4,4 @@
 - [x] [Основы Javascript](https://github.com/TomSG03/bjs-diplom)
 - [x] [Базовый JavaScript в браузере](https://github.com/TomSG03/JSB-Diplom)
 - [x] [Продвинутый JavaScript](https://github.com/TomSG03/ajs-homeworks-list)
+- [x] [Продвинутый JavaScript в браузере](https://github.com/TomSG03/ahs-homeworks-list)
