@@ -5,4 +5,4 @@
 - [x] [Базовый JavaScript в браузере](https://github.com/TomSG03/JSB-Diplom)
 - [x] [Продвинутый JavaScript](https://github.com/TomSG03/ajs-homeworks-list)
 - [x] [Продвинутый JavaScript в браузере](https://github.com/TomSG03/ahs-homeworks-list)
-- [x] [React](https://github.com/TomSG03/ra-homeworcks-list)
+- [x] [React](https://github.com/TomSG03/ra-homeworks-list)
