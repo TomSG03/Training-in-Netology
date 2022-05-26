@@ -6,3 +6,4 @@
 - [x] [Продвинутый JavaScript](https://github.com/TomSG03/ajs-homeworks-list)
 - [x] [Продвинутый JavaScript в браузере](https://github.com/TomSG03/ahs-homeworks-list)
 - [x] [React](https://github.com/TomSG03/ra-homeworks-list)
+- [x] [Основы PHP](https://github.com/TomSG03/php-homeworks/tree/main)
