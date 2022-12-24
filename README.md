@@ -8,4 +8,4 @@
 - [x] [React](https://github.com/TomSG03/ra-homeworks-list)
 - [x] [Основы PHP](https://github.com/TomSG03/php-homeworks/tree/main)
 - [x] [Продвинутый PHP](https://github.com/TomSG03/a-php-homeworks/tree/main)
-- [x] [Работа веб-приложений](https://github.com/TomSG03/bweb-works)
+- [x] [Работа веб-приложений (Bitrix)](https://github.com/TomSG03/bweb-works)
